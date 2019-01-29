@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-MX" lang="es-MX"><head>
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-			<meta name="description" content="A³ ARCHITECTURE es una empresa con 12 años de experiencia en diseño y construcción de espacios habitables que combinan lo bello y lo funcional. Nuestras obras abarcan el ramo de lo habitacional, residencial, industrial, comercial, restaurantes, departamentos, oficinas y diseño de interiores. 
+			<meta name="description" content="A³ ARCHITECTURE es una empresa con 12 años de experiencia en diseño y construcción de espacios habitables que combinan lo bello y lo funcional. Nuestras obras abarcan el ramo de lo habitacional, residencial, industrial, comercial, restaurantes, departamentos, oficinas y diseño de interiores.
 
 Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compromiso con el cliente. " />
 				<meta name="keywords" content="arquitectura, mantenimiento, persianas, diseños, a-tres" />
@@ -19,18 +19,17 @@ Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compro
 	  <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-		
-	   
+
+
 	</head>
 
 <body>
 
 	<div id="header">
-		
+
 		<div id="logo"><img src="css/img/a3_logo.jpg" alt="Logo" width="90" height="110" /></div>
-		
+
 		<div id="navbl"></div>
-		<? include('a_cont/nav.php'); ?>
-		
+		<?php include('a_cont/nav.php'); ?>
+
 	</div>
-	
