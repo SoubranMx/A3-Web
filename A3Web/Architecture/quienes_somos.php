@@ -93,7 +93,7 @@
 					el compromiso con el cliente.
 					<br /><br />
 					<a href="quienes_somos.php?arq=CarolinaIglesias">Arq. Carolina Iglesias</a>
-					<a href="quienes_somos.php?arq=TeoRobles">Arq. Teo Robles</a>
+					
 
 
 				</blockquote>

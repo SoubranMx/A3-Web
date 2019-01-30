@@ -42,16 +42,16 @@ Elminar:
         <ul>
 					<!--Se quedan en orden -->
 					<li><a href="#">Treze</a></li>
-					<li><a style="" href="obra_restaurante_central.php">Restaurante Central</a></li>
+<!--					<li><a style="" href="obra_restaurante_central.php">Restaurante Central</a></li>	-->
 					<li><a style="" href="obra_centralcentral.php">Central Central</a></li>
 					<li><a href="obra_Sportsbook.php">Sportsbook</a></li>
 					<li><a href="obra_pescaderia.php">La Pescadería</a></li>
 					<li><a href="obra_restaurante_salotto.php">Salotto</a></li>
 					<li><a href="obra_winpalace.php">Winpalace</a></li>
 					<li><a href="obra_magnum_boutique.php">Magnum Boutique</a></li>
-					<li><a href="obra_akabani_revolucion.php">Akabani Revolución</a></li>
-					<li><a style="font-size:11px;" href="obra_showroom_smart_tech.php">Showroom Smart Tech</a></li>
-					<li><a href="obra_oficinas_eurotecsa.php">Oficinas Eurotecsa</a></li>
+					<li><a href="obra_akabani_revolucion.php">Akabani</a></li>
+					<li><a href="obra_showroom_smart_tech.php">Smart Tech</a></li>
+					<li><a href="obra_oficinas_eurotecsa.php">Eurotecsa</a></li>
 <!-- ???					<li><a href="obra_restaurante_salotto.php">Restaurante Salotto</a></li>	-->
 <!--					<li><a href="obra_vip_central_central.php">VIP Central Central</a></li>		-->
 <!--					<li><a href="obra_akabani_palmas.php">Akabani Palmas</a></li>	-->
@@ -62,7 +62,7 @@ Elminar:
 <!--					<li><a href="obra_club_spirit_dos.php">Club Spirit II</a></li>	-->
 				</ul>
     </li>
-		<li> <a href="mantenimiento.php">Mantenimiento</a> </li>
+		<li> <a href="#">Desarrollos</a> </li>
 		<li> <a href="persianas.php" >Persianas</a> </li>
 		<li  style="border:none;" > <a style="border:none;" href="contacto.php" >Contacto</a> </li>
 	</ul>
