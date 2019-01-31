@@ -44,13 +44,18 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obmengles/obmengles9.jpg"  height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Casa Mangles, 680 m2<br>
-		 Bosques de Las Lomas (2009)<br>
-		 Proyecto y obra para mansión de lujo estilo moderno.
-		 <br />En colaboración con DM Arquitectos
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Casa Mangles, 680 m2
+		 		Bosques de Las Lomas (2009)
+			</p>
+			<p	class="info">
+				Proyecto y obra para mansión de lujo estilo moderno.
+			</p>
+			<p	class="arq">
+				En colaboración con DM Arquitectos
+			</p>
+		</div>
+		</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

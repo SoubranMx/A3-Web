@@ -1,7 +1,7 @@
 <?php include('a_cont/head.php');
 //	AUN NO TIENE NADA
 ?>
-	<div id="section" style="width:1000px; margin-bottom:120px;">
+	<div id="section">
 	   <div id="proyectos">
 				<script type="text/javascript">
 					$('#slideshow').cycle({
@@ -42,14 +42,22 @@
 	        <li class="activeSlide"><a href="#"><img src="obras/obSportsbook/Sportsbook10.jpg" width="80" height="53" ></a></li>
 	    	</ul>
 	    </div>
-			<div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-				Sportsbook Restaurante & Bar	<br>
-				Ciudad Satélite, Edomex (2015)	<br>
-				Diseño y decoración	<br>
-				Sportsbook Restaurante & Bar debió integrar las 3 funciones: bar para apuestas deportivas, restaurante para clientes y bar de reunión social y descanso. Y en todo esto, generar antojo…	<br>
-				Con diseño de la Arq. Carolina Iglesias	<br>
-				Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles	<br>
-		  </div>
+
+			<div class="texto">
+				<p class="lugar">
+					Sportsbook Restaurante & Bar
+					Ciudad Satélite, Edomex (2015)
+					Diseño y decoración
+				</p>
+				<p	class="info">
+					Sportsbook Restaurante & Bar debió integrar las 3 funciones: bar para apuestas deportivas, restaurante para clientes y bar de reunión social y descanso. Y en todo esto, generar antojo…
+				</p>
+				<p	class="arq">
+					Con diseño de la Arq. Carolina Iglesias
+					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles
+				</p>
+			</div>
+
 		</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

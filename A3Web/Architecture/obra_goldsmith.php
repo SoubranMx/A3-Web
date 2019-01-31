@@ -42,13 +42,17 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obgoldsmith/obgoldsmith8.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Departamento Goldsmith, 150 m2<br>
-		 Polanco (2009)<br>
-		 Construcción de Interiores<br />
-		 Con diseño del Arq. Héctor Bitar
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Departamento Goldsmith, 150 m2
+				Polanco (2009)
+				Construcción de Interiores
+			</p>
+			<p	class="arq">
+				Con diseño del Arq. Héctor Bitar
+			</p>
+		</div>
+		
+	 </div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

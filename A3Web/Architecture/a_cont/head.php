@@ -20,6 +20,7 @@ Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compro
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
+	<link rel="stylesheet" href="css/texto.css">
 
 	</head>
 
@@ -30,6 +31,9 @@ Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compro
 		<div id="logo"><img src="css/img/a3_logo.jpg" alt="Logo" width="90" height="110" /></div>
 
 		<div id="navbl"></div>
-		<?php include('a_cont/nav.php'); ?>
+		<?php
+		//include('a_cont/nav.php');
+		include("nav.php");
+		?>
 
 	</div>

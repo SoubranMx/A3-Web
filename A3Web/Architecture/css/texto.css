@@ -1,0 +1,49 @@
+#proyectos{
+  width:1000px;
+}
+#section{
+  margin-bottom:  5px;
+  width:  1000px;
+}
+#nav{
+  width:290px;
+  height:auto;
+}
+
+.texto{
+  color:  white;
+  border-top: 1px solid;
+  width: 315px;
+  height:auto;
+  position: relative;
+  float: right;
+}
+
+.lugar{
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top:5px;
+}
+
+.info{
+  font-size: 12px;
+  font-style: italic;
+  margin-top:3px;
+}
+
+.arq{
+  font-size: 12px;
+}
+
+.preventa{
+  font-size:18px;
+  font-weight:bold;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+.precio{
+  font-weight:bold;
+}

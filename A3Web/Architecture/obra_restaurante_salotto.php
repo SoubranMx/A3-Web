@@ -42,12 +42,21 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obsalotto/obsalotto7.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Restaurante Italiano "Salotto" <br>
-		 Polanco, México D.F. (2009)<br>
-		 Ganadores del concurso para diseño de restaurante y dirección de obra
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Restaurante Salotto
+				Polanco, CdMx (2009)
+				Construcción de interiores
+			</p>
+			<p	class="info">
+				Restaurante italiano repleto de detalles artísticos, en una de las mejores zonas restauranteras de la Ciudad de México.
+			</p>
+			<p	class="arq">
+				Con diseño de Tiziano
+				Construcción realizada por el Arq. Teo Robles y la Arq. Carolina Iglesias
+				Con la colaboración de la Arq. Nadia Hernández
+			</p>
+		</div>
+	</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

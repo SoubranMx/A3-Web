@@ -8,7 +8,7 @@ $('#slideshow').cycle({
     speed:  'fast',
     timeout: 0,
     pager:  '#nav',
-    pagerAnchorBuilder: function(idx, slide) { 
+    pagerAnchorBuilder: function(idx, slide) {
         // return selector string for existing anchor
         return '#nav li:eq(' + idx + ') a';
     }
@@ -37,12 +37,16 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obpalmas/obpalmas5.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Mueblería Akabani Palmas<br>
-		 Lomas de Chapultepec, México D.F. (2011)<br>
-		 Remodelación de edificio
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Mueblería Akabani Palmas
+	 			Lomas de Chapultepec, México D.F. (2011)
+			</p>
+			<p	class="info">
+				Remodelación de edificio
+			</p>
+		</div>
+		
+	 </div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

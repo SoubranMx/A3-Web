@@ -1,7 +1,7 @@
 <?php include('a_cont/head.php');
 //	AUN NO TIENE NADA
 ?>
-	<div id="section" style="width:1000px; margin-bottom:170px;">
+	<div id="section">
 	   <div id="proyectos">
 				<script type="text/javascript">
 					$('#slideshow').cycle({
@@ -29,11 +29,12 @@
 					<img src="obras/obcentralcentral/CC10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obcentralcentral/CC11.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obcentralcentral/CC12.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obcentralcentral/CC13.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+<!--					<img src="obras/obcentralcentral/CC13.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obcentralcentral/CC14.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obcentralcentral/CC15.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+-->
 	    </div>
-			<div style="position:relative;width:300px; height:320px; float:right;">
+			<div style="position:relative;width:300px; height:250px; float:right;">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="obras/obcentralcentral/CC01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="obras/obcentralcentral/CC02.jpg" width="80" height="53"></a></li>
@@ -47,19 +48,26 @@
 					<li class=""><a href="#"><img src="obras/obcentralcentral/CC10.jpg" width="80" height="53"></a></li>
 					<li class=""><a href="#"><img src="obras/obcentralcentral/CC11.jpg" width="80" height="53"></a></li>
 					<li class=""><a href="#"><img src="obras/obcentralcentral/CC12.jpg" width="80" height="53"></a></li>
-					<li class=""><a href="#"><img src="obras/obcentralcentral/CC13.jpg" width="80" height="53"></a></li>
+<!--					<li class=""><a href="#"><img src="obras/obcentralcentral/CC13.jpg" width="80" height="53"></a></li>
 					<li class=""><a href="#"><img src="obras/obcentralcentral/CC14.jpg" width="80" height="53"></a></li>
 	        <li class="activeSlide"><a href="#"><img src="obras/obcentralcentral/CC15.jpg" width="80" height="53" ></a></li>
+-->
 	    	</ul>
 	    </div>
-			<div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-				Restaurante Central Central	<br>
-				Santa Fe, CdMx (2011)	<br>
-				Construcción de interiores	<br>
-				"Quiero hacer el restaurante más bonito de México." Estas fueron las palabras del arquitecto y restaurantero Luis Felipe “Pipe” Castro en 2009. Así nos invitó a los dueños de A3 Architecture a colaborar con él el en el proyecto más ambicioso y detallista que habíamos abordado hasta ese momento.	<br>
-				Con diseño del Arq. Luis Felipe Castro	<br>
-				Construcción realizada por la Arq. Carolina Iglesias y el Arq. Teo Robles	<br>
-		  </div>
+			<div class="texto">
+				<p class="lugar">
+					Restaurante Central Central
+					Santa Fe, CdMx (2011)
+					Construcción de interiores
+				</p>
+				<p	class="info">
+					"Quiero hacer el restaurante más bonito de México." Estas fueron las palabras del arquitecto y restaurantero Luis Felipe “Pipe” Castro en 2009. Así nos invitó a los dueños de A3 Architecture a colaborar con él el en el proyecto más ambicioso y detallista que habíamos abordado hasta ese momento.
+				</p>
+				<p	class="arq">
+					Con diseño del Arq. Luis Felipe Castro
+					Construcción realizada por la Arq. Carolina Iglesias y el Arq. Teo Robles
+				</p>
+			</div>
 		</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

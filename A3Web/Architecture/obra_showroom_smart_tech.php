@@ -42,12 +42,15 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obtech/obtech4.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Showroom Smart-Tech by Coinosa <br>
-		 Cancún, Quintana Roo (2009)<br>
-		 Diseño, construcción y decoración de showroom y oficinas.
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Showroom Smart-Tech by Coinosa
+				Cancún, Quintana Roo (2009)
+			</p>
+			<p	class="info">
+				Diseño, construcción y decoración de showroom y oficinas.
+			</p>
+		</div>
+	</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

@@ -38,13 +38,18 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obrealdel/obrealdel6.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Casa Real del Country, 1200 m2<br>
-		 Lomas Country Club, Huixquilucan (2008)<br />
-		 Proyecto y obra para mansión de lujo.
-		 <br />En colaboración con DM Arquitectos
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Casa Real del Country, 1200 m2
+		 		Lomas Country Club, Huixquilucan (2008)
+			</p>
+			<p	class="info">
+				Proyecto y obra para mansión de lujo.
+			</p>
+			<p	class="arq">
+				En colaboración con DM Arquitectos
+			</p>
+		</div>
+	</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

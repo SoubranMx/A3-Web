@@ -36,12 +36,15 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obranchore/obranchore5.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Rancho Recoveco, 400 m2<br>
-		 Villa Coapa (2005)<br>
-		 Proyecto y obra para residencia moderna de lujo.
-	    </div>
-		 </div>
-
+		<div class="texto">
+			<p class="lugar">
+				Rancho Recoveco, 400 m2
+		 		Villa Coapa (2005)
+			</p>
+			<p	class="info">
+				Proyecto y obra para residencia moderna de lujo.
+			</p>
+		</div>
+	</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

@@ -11,7 +11,7 @@ $('#slideshow').cycle({
     pagerAnchorBuilder: function(idx, slide) {
         // return selector string for existing anchor
         return '#nav li:eq(' + idx + ') a';
-    } 
+    }
 });
 
 </script>
@@ -36,12 +36,16 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obrevolucion/obrevolucion4.jpg" width="80" height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Mueblería Akabani Revolución,<br /> 4000 m2<br>
-		 San Angel, México D.F. (2011)<br>
-		 Diseño de edificio para mueblería
-	    </div>
-		 </div>
+		<div class="texto">
+			<p class="lugar">
+				Mueblería Akabani Revolución, 4000 m2
+		 		San Angel, México D.F. (2011)
+			</p>
+			<p	class="info">
+				Diseño de edificio para mueblería
+			</p>
+		</div>
 
+	 </div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

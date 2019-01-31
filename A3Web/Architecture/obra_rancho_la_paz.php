@@ -43,13 +43,19 @@ $('#slideshow').cycle({
         <li class="activeSlide"><a href="#"><img src="obras/obrancho/obrancho9.jpg" width="80"  height="53" ></a></li>
     </ul>
     </div>
-		 <div style="position:relative;width:255px; border-top:1px solid #fff; padding-top:10px; float:right; bottom:0px;">
-		 Rancho La Paz<br />
-		 Avándaro, Estado de México (2011)<br />
-		 Supervisión arquitéctonica de casa de descanso de 600 m2 y lago artificial<br />
-		 Con diseño del Arq. Mateo Holmes
-	    </div>
-		 </div>
 
+		<div class="texto">
+			<p class="lugar">
+				Rancho La Paz
+		 		Avándaro, Estado de México (2011)
+			</p>
+			<p	class="info">
+				Supervisión arquitéctonica de casa de descanso de 600 m2 y lago artificial
+			</p>
+			<p	class="arq">
+				Con diseño del Arq. Mateo Holmes
+			</p>
+		</div>
+	</div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

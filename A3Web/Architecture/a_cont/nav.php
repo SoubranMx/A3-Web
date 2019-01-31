@@ -17,33 +17,10 @@
 		</li>
 
     <li> <a href="#">Comercial</a>
-			<!-- Comercial:
-·				*Treze (nuevo)
-·       Central Central (existente)
-·       *Sportsbook (nuevo)
-·       *La Pescadería (nuevo)
-·       *Salotto (nuevo)
-·       *Winpalace (nuevo)
-·       Magnum Boutique (existente)
-·       Akabani Revolución (existente)
-·       Smart Tech (existente)
-·       Eurotecsa (existente)
-
-
-Elminar:
-·       VIP Central Central
-·       Akabani Palmas
-·       Baja California Corp
-·       Bar Cielo de Cortés
-·       Oficinas QST
-·       Club Spirit II
-·       Iusacell
-			-->
         <ul>
 					<!--Se quedan en orden -->
 					<li><a href="#">Treze</a></li>
-<!--					<li><a style="" href="obra_restaurante_central.php">Restaurante Central</a></li>	-->
-					<li><a style="" href="obra_centralcentral.php">Central Central</a></li>
+					<li><a href="obra_centralcentral.php">Central Central</a></li>
 					<li><a href="obra_Sportsbook.php">Sportsbook</a></li>
 					<li><a href="obra_pescaderia.php">La Pescadería</a></li>
 					<li><a href="obra_restaurante_salotto.php">Salotto</a></li>
@@ -53,16 +30,16 @@ Elminar:
 					<li><a href="obra_showroom_smart_tech.php">Smart Tech</a></li>
 					<li><a href="obra_oficinas_eurotecsa.php">Eurotecsa</a></li>
 <!-- ???					<li><a href="obra_restaurante_salotto.php">Restaurante Salotto</a></li>	-->
-<!--					<li><a href="obra_vip_central_central.php">VIP Central Central</a></li>		-->
-<!--					<li><a href="obra_akabani_palmas.php">Akabani Palmas</a></li>	-->
-<!--					<li><a style="font-size:11px;" href="obra_baja_california_corp.php">Baja California Corp</a></li>	-->
-<!--					<li><a href="obra_bar_cielo_de_cortes.php">Bar Cielo de Cortés</a></li>	-->
-<!--					<li><a href="obra_oficinas_qst.php">Oficinas QST</a></li>	-->
-<!--					<li><a href="obra_iusacell.php">Iusacell</a></li>	-->
-<!--					<li><a href="obra_club_spirit_dos.php">Club Spirit II</a></li>	-->
 				</ul>
     </li>
-		<li> <a href="#">Desarrollos</a> </li>
+		<li> <a href="#">Desarrollos</a>
+			<ul>
+				<li><a href="d_ferrocarril.php">Ferrocarril</a></li>
+				<li><a href="d_navarra.php">Navarra</a></li>
+				<li><a href="d_mar_china.php">Mar de China</a></li>
+				<li><a href="d_cencibel.php">Cencibel</a></li>
+			</ul>
+		</li>
 		<li> <a href="persianas.php" >Persianas</a> </li>
 		<li  style="border:none;" > <a style="border:none;" href="contacto.php" >Contacto</a> </li>
 	</ul>
