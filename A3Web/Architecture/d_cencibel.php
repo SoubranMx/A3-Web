@@ -26,7 +26,7 @@
 					<img src="desarrollos/img/Cencibel/06.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="desarrollos/img/Cencibel/07.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
-			<div style="position:relative;width:300px; height:250px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="desarrollos/img/Cencibel/01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="desarrollos/img/Cencibel/02.jpg" width="80" height="53"></a></li>
@@ -38,9 +38,9 @@
 	    	</ul>
 	    </div>
 			<div	class="texto">
+				<p class="titulo">Calle Cencibel</p>
 				<p class="lugar">
-					Calle Cencibel
-					Rinconada Atlixcáyotl, Puebla (2013-2014)<br>
+					Rinconada Atlixcáyotl, Puebla (2013-2014)<br/>
 					Desarrollo Inmobiliario, 3 casas
 				</p>
 				<p class="info">

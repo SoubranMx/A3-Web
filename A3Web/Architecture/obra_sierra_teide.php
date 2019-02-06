@@ -27,7 +27,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:150px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obsierrateide/obsierrateide1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obsierrateide/obsierrateide2.jpg" width="80" height="53"></a></li>
@@ -37,8 +37,9 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Casa Sierra Teide</p>
 			<p class="lugar">
-				Casa Sierra Teide, 400 m2
+				400 m2<br/>
 				Jardines en La Montaña (2001)
 			</p>
 			<p	class="info">

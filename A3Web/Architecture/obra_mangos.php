@@ -29,7 +29,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:145px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obmangos/obmango1.jpg" width="80" height="53" ></a></li>
          <li class=""><a href="#"><img src="obras/obmangos/obmango2.jpg" width="80" height="53"></a></li>
@@ -40,8 +40,9 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Ampliación Casa Los Mangos</p>
 			<p class="lugar">
-				Ampliación Casa Los Mangos, 300 m2
+				300 m2 <br/>
 				Cuernavaca, Morelos (2011)
 			</p>
 			<p	class="info">

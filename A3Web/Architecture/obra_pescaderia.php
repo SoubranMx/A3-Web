@@ -28,7 +28,7 @@
 					<img src="obras/obpescaderia/Pescaderia09.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obpescaderia/Pescaderia10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
-			<div style="position:relative;width:300px; height:250px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="obras/obpescaderia/Pescaderia01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="obras/obpescaderia/Pescaderia02.jpg" width="80" height="53"></a></li>
@@ -43,18 +43,18 @@
 	    	</ul>
 	    </div>
 			<div class="texto">
+				<p class="titulo">La Pescadería Prado Norte</p>
 				<p class="lugar">
-					La Pescadería Prado Norte
-					Lomas de Chapultepec, CdMx (2017)
-					Diseño y decoración
+					Lomas de Chapultepec, CdMx (2017)<br/>
+					Diseño y decoración<br/>
 					Diseño de fachada y exteriores
 				</p>
 				<p	class="info">
 					El quinto de una exitosa cadena de restaurantes de mariscos, debe conservar la imagen corporativa y a su vez estar a la altura de los exigentes gustos de una de las zonas más lujosas de la ciudad.
 				</p>
 				<p	class="arq">
-					Con diseño de la Arq. Carolina Iglesias
-					Y colaboración de la Arq. Karen González
+					Diseño: Arq. Carolina Iglesias<br/>
+					Colaboración: Arq. Karen González
 				</p>
 			</div>
 		</div>

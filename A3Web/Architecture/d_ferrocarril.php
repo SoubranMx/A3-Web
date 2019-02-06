@@ -29,7 +29,7 @@
 					<img src="desarrollos/img/Ferrocarriles/09.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="desarrollos/img/Ferrocarriles/10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
-			<div style="position:relative;width:300px; height:250px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="desarrollos/img/Ferrocarriles/01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="desarrollos/img/Ferrocarriles/02.jpg" width="80" height="53"></a></li>
@@ -45,9 +45,9 @@
 	    </div>
 			<div	class="texto">
 				<p class="preventa">PREVENTA 2019</p>
+				<p class="titulo">Ferrocarril de Cuernavaca 51</p>
 				<p class="lugar">
-					Ferrocarril de Cuernavaca 51
-					Popotla, CDMX
+					Popotla, CDMX<br/>
 					Desarrollo Inmobiliario, 10 departamentos
 				</p>
 				<p class="info">

@@ -30,7 +30,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:210px; float:right;">
+			<div class="titulo">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obgoldsmith/obgoldsmith1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obgoldsmith/obgoldsmith2.jpg" width="80" height="53"></a></li>
@@ -43,16 +43,17 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo"> Departamento Goldsmith </p>
 			<p class="lugar">
-				Departamento Goldsmith, 150 m2
-				Polanco (2009)
+				150 m2 <br/>
+				Polanco (2009)<br/>
 				Construcción de Interiores
 			</p>
 			<p	class="arq">
-				Con diseño del Arq. Héctor Bitar
+				Diseño: Arq. Héctor Bitar
 			</p>
 		</div>
-		
+
 	 </div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

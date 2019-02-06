@@ -28,7 +28,7 @@
 					<img src="obras/obwinpalace/Winpalace11.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obwinpalace/Winpalace12.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
-			<div style="position:relative;width:300px; height:250px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="obras/obwinpalace/Winpalace01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="obras/obwinpalace/Winpalace02.jpg" width="80" height="53"></a></li>
@@ -45,17 +45,18 @@
 	    	</ul>
 	    </div>
 			<div class="texto">
+				<p class="titulo">Casino Winpalace</p>
 				<p class="lugar">
-					Casino Winpalace, 2000 m2
-					Ciudad Satélite, Edomex (2015)
-					Rediseño y decoración de interiores
+					2000 m2<br/>
+					Ciudad Satélite, Edomex (2015)<br/>
+					Rediseño y decoración de interiores<br/>
 					Creación de fachada
 				</p>
 				<p	class="info">
-					Cuando hablamos de arquitectura, la materia prima es el espacio. En Winpalace Casino, la materia prima es la luz. La luz forma el espacio, y no al revés.
+					Cuando hablamos de arquitectura, la materia prima es el espacio. En Winpalace Casino, la materia prima es la luz. En Winpalace Casino, la luz forma el espacio, y no al revés.
 				</p>
 				<p	class="arq">
-					Diseño y construcción: Arq. Carolina Iglesias
+					Diseño y construcción: Arq. Carolina Iglesias<br/>
 					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles
 				</p>
 			</div>

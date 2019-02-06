@@ -30,7 +30,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:210px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obrancho/obrancho1.jpg" width="80" height="53" ></a></li>
          <li class=""><a href="#"><img src="obras/obrancho/obrancho2.jpg" width="80" height="53"></a></li>
@@ -45,15 +45,15 @@ $('#slideshow').cycle({
     </div>
 
 		<div class="texto">
+			<p class="titulo">Rancho La Paz</p>
 			<p class="lugar">
-				Rancho La Paz
 		 		Avándaro, Estado de México (2011)
 			</p>
 			<p	class="info">
 				Supervisión arquitéctonica de casa de descanso de 600 m2 y lago artificial
 			</p>
 			<p	class="arq">
-				Con diseño del Arq. Mateo Holmes
+				Diseño: Arq. Mateo Holmes
 			</p>
 		</div>
 	</div>

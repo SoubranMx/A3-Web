@@ -27,7 +27,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:150px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obranchore/obranchore1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obranchore/obranchore2.jpg" width="80" height="53"></a></li>
@@ -37,8 +37,9 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Rancho Recoveco</p>
 			<p class="lugar">
-				Rancho Recoveco, 400 m2
+				400 m2 <br/>
 		 		Villa Coapa (2005)
 			</p>
 			<p	class="info">

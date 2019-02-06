@@ -28,7 +28,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:150px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obrealdel/obrealdel1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obrealdel/obrealdel2.jpg" width="80" height="53"></a></li>
@@ -39,8 +39,9 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Casa Real del Country</p>
 			<p class="lugar">
-				Casa Real del Country, 1200 m2
+				1200 m2<br/>
 		 		Lomas Country Club, Huixquilucan (2008)
 			</p>
 			<p	class="info">

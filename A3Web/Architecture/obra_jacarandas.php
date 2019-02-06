@@ -27,7 +27,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:150px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/objacarandas/objacarandas1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/objacarandas/objacarandas2.jpg" width="80" height="53"></a></li>
@@ -38,8 +38,9 @@ $('#slideshow').cycle({
     </div>
 
 		<div class="texto">
+			<p class="titulo"> Casa Jacarandas </p>
 			<p class="lugar">
-				Casa Jacarandas, 500 m2
+				500 m2 <br/>
 		 		Bosques de Las Lomas (2006)
 			</p>
 			<p	class="info">

@@ -34,7 +34,7 @@
 					<img src="obras/obcentralcentral/CC15.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 -->
 	    </div>
-			<div style="position:relative;width:300px; height:250px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="obras/obcentralcentral/CC01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="obras/obcentralcentral/CC02.jpg" width="80" height="53"></a></li>
@@ -55,17 +55,17 @@
 	    	</ul>
 	    </div>
 			<div class="texto">
+				<p class="titulo"> Restaurante Central Central </p>
 				<p class="lugar">
-					Restaurante Central Central
-					Santa Fe, CdMx (2011)
+					Santa Fe, CdMx (2011)<br/>
 					Construcción de interiores
 				</p>
 				<p	class="info">
-					"Quiero hacer el restaurante más bonito de México." Estas fueron las palabras del arquitecto y restaurantero Luis Felipe “Pipe” Castro en 2009. Así nos invitó a los dueños de A3 Architecture a colaborar con él el en el proyecto más ambicioso y detallista que habíamos abordado hasta ese momento.
+					"Quiero hacer el restaurante más bonito de México." Con estas palabras,el arquitecto y restaurantero Luis Felipe “Pipe” Castro nos invitó a los dueños de A3 Architecture a colaborar con él en el proyecto más ambicioso y detallista que habíamos abordado hasta ese momento.
 				</p>
 				<p	class="arq">
-					Con diseño del Arq. Luis Felipe Castro
-					Construcción realizada por la Arq. Carolina Iglesias y el Arq. Teo Robles
+					Diseño: Arq. Luis Felipe Castro <br/>
+					Construcción: Arq. Carolina Iglesias y el Arq. Teo Robles
 				</p>
 			</div>
 		</div>

@@ -28,7 +28,7 @@
 					<img src="obras/obSportsbook/Sportsbook09.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 					<img src="obras/obSportsbook/Sportsbook10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
-			<div style="position:relative;width:300px; height:270px; float:right;">
+			<div class="fotos">
 				<ul id="nav">
 	        <li class=""><a href="#"><img src="obras/obSportsbook/Sportsbook01.jpg" width="80" height="53" ></a></li>
 	        <li class=""><a href="#"><img src="obras/obSportsbook/Sportsbook02.jpg" width="80" height="53"></a></li>
@@ -44,16 +44,18 @@
 	    </div>
 
 			<div class="texto">
-				<p class="lugar">
-					Sportsbook Restaurante & Bar
+				<p class="titulo"> Sportsbook Restaurante & Bar </p>
+					<p class="lugar">
 					Ciudad Satélite, Edomex (2015)
+					</p>
+					<p class="lugar">
 					Diseño y decoración
-				</p>
+					</p>
 				<p	class="info">
-					Sportsbook Restaurante & Bar debió integrar las 3 funciones: bar para apuestas deportivas, restaurante para clientes y bar de reunión social y descanso. Y en todo esto, generar antojo…
+					Sportsbook Restaurante & Bar debió integrar las 3 funciones: bar para apuestas deportivas, restaurante para clientes y bar de reunión social y descanso. Y en todo esto, “generar antojo”... ¡de relajarse, disfrutar el ambiente, y seguir jugando!
 				</p>
 				<p	class="arq">
-					Con diseño de la Arq. Carolina Iglesias
+					Diseño: Arq. Carolina Iglesias <br/>
 					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles
 				</p>
 			</div>

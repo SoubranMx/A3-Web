@@ -31,7 +31,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:200px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obtech/obtech1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obtech/obtech2.jpg" width="80" height="53"></a></li>
@@ -43,12 +43,13 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Showroom Smart-Tech by Coinosa</p>
 			<p class="lugar">
-				Showroom Smart-Tech by Coinosa
-				Cancún, Quintana Roo (2009)
+				Cancún, Quintana Roo (2009)<br/>
+				Diseño, construcción y decoración de showroom y oficinas.
 			</p>
 			<p	class="info">
-				Diseño, construcción y decoración de showroom y oficinas.
+				La prestigiosa empresa de tecnología Coinosa presentó en 2009 su nuevo showroom y oficinas en Cancún, listo para atender las demandas de una clientela sofisticada y amante de la automatización.
 			</p>
 		</div>
 	</div>

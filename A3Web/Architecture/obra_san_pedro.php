@@ -29,7 +29,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:210px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obsanpedro/obsanpedro1.jpg" width="80" height="53" ></a></li>
          <li class=""><a href="#"><img src="obras/obsanpedro/obsanpedro7.jpg" width="80" height="53"></a></li>
@@ -41,8 +41,9 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Casa San Pedro</p>
 			<p class="lugar">
-				Casa San Pedro, 450 m2
+				450 m2<br/>
 				Pedregal de San Francisco (2009)
 			</p>
 			<p	class="info">

@@ -31,7 +31,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:200px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obsalotto/obsalotto1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obsalotto/obsalotto2.jpg" width="80" height="53"></a></li>
@@ -43,18 +43,18 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Restaurante Salotto</p>
 			<p class="lugar">
-				Restaurante Salotto
-				Polanco, CdMx (2009)
+				Polanco, CdMx (2009)<br/>
 				Construcción de interiores
 			</p>
 			<p	class="info">
 				Restaurante italiano repleto de detalles artísticos, en una de las mejores zonas restauranteras de la Ciudad de México.
 			</p>
 			<p	class="arq">
-				Con diseño de Tiziano
-				Construcción realizada por el Arq. Teo Robles y la Arq. Carolina Iglesias
-				Con la colaboración de la Arq. Nadia Hernández
+				Diseño: Tiziano<br/>
+				Construcción: Arq. Teo Robles y la Arq. Carolina Iglesias<br/>
+				Colaboración: Arq. Nadia Hernández
 			</p>
 		</div>
 	</div>

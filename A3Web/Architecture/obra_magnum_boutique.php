@@ -29,7 +29,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:150px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obmagnum/obmagnum1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obmagnum/obmagnum2.jpg" width="80" height="53"></a></li>
@@ -39,18 +39,19 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Magnum Boutique</p>
 			<p class="lugar">
-				Magnum Boutique
-		 		Plaza Antara Polanco, México D.F. (2011)
-			</p>
-			<p	class="info">
+		 		Plaza Antara Polanco, México D.F. (2011)<br/>
 				Construcción de local comercial
 			</p>
+			<p	class="info">
+				En sólo tres semanas de trabajos nocturnos, pasamos del papel a la obra terminada de esta heladería “boutique” de temporada, ubicada en el centro comercial Plaza Antara.
+			</p>
 			<p	class="arq">
-				Con diseño de Depa 102
+				Diseño: Depa 102
 			</p>
 		</div>
-		
+
 	 </div>
 	</div>
 <?php include('a_cont/footer.php'); ?>

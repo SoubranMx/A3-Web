@@ -31,7 +31,7 @@ $('#slideshow').cycle({
 
     </div>
 
-			<div style="position:relative;width:300px; height:210px; float:right;">
+			<div class="fotos">
 			<ul id="nav">
         <li class=""><a href="#"><img src="obras/obmengles/obmengles1.jpg" width="80" height="53" ></a></li>
         <li class=""><a href="#"><img src="obras/obmengles/obmengles2.jpg" width="80" height="53"></a></li>
@@ -45,15 +45,16 @@ $('#slideshow').cycle({
     </ul>
     </div>
 		<div class="texto">
+			<p class="titulo">Casa Mangles</p>
 			<p class="lugar">
-				Casa Mangles, 680 m2
+				680 m2 <br/>
 		 		Bosques de Las Lomas (2009)
 			</p>
 			<p	class="info">
 				Proyecto y obra para mansión de lujo estilo moderno.
 			</p>
 			<p	class="arq">
-				En colaboración con DM Arquitectos
+				Colaboración: DM Arquitectos
 			</p>
 		</div>
 		</div>
