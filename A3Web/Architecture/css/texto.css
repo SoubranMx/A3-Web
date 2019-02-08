@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Calibri';
+  src: local('Calibri'),
+       url(font/Calibri.ttf) format('ttf');
+}
+
 ul{
   font-family:  Calibri, sans-serif;
 }
