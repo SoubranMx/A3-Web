@@ -33,7 +33,7 @@ Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compro
 		<div id="navbl"></div>
 		<?php
 		//include('a_cont/nav.php');
-		include("nav.php");
+		include("nav.html");
 		?>
 
 	</div>

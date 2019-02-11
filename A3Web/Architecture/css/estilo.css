@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-@font-face { font-family: Calibri; src: url('http://www.aixandvic.com/a-tres/css/font/Calibri.ttf'); } 
-@font-face { font-family: Copperplate; src: url('font/Copperplate.ttc'); } 
+@font-face { font-family: Calibri; src: url('http://www.aixandvic.com/a-tres/css/font/Calibri.ttf'); }
+@font-face { font-family: Copperplate; src: url('font/Copperplate.ttc'); }
 
 html, body {
 padding:0px;
@@ -58,6 +58,7 @@ margin:0px auto;
 	background:url(img/a3_br.png);
 	z-index:4;
 	}
+
 #nava {
 position:relative;
 width:897px;
@@ -179,7 +180,7 @@ font-family: Calibri;
 	border-left:1px solid #fff;
 	padding:50px;
 	}
-	
+
 #footer {
 position:relative;
 width:980px;
@@ -241,7 +242,7 @@ margin:0px auto;
 #nac li.activeSlide a:hover { border:1px solid #b9baac; }
 #nav a:focus { outline: none; }
 #nav img { border: none; display: block }
-	
+
 .cf {
 clear: both;
 height: 0;

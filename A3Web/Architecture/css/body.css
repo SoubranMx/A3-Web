@@ -1,0 +1,40 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'Calibri';
+  src: local('Calibri'),
+       url(font/Calibri.ttf) format('ttf');
+}
+
+body{
+  padding:      0px;
+  margin:       0px;
+  background:   black;
+  color:        white;
+  font-family:  Calibri !important;
+  height:       100%;
+  width:        100%;
+}
+
+input{
+  width:      200px;
+  height:     10px;
+  background: black;
+  color:      white;
+  border:     1px solid #fff;
+  margin:     5px;
+  padding:    10px;
+}
+
+textarea{
+  width:      280px;
+  min-width:  280px;
+  max-width:  280px;
+  height:     171px;
+  min-height: 171px;
+  max-height: 171px;
+  padding:    10px;
+  background: black;
+  color:      white;
+  margin:     5px;
+  border:     1px solid white;
+}
