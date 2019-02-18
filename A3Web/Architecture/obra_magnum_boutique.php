@@ -48,7 +48,7 @@ $('#slideshow').cycle({
 				En sólo tres semanas de trabajos nocturnos, pasamos del papel a la obra terminada de esta heladería “boutique” de temporada, ubicada en el centro comercial Plaza Antara.
 			</p>
 			<p	class="arq">
-				Diseño: Depa 102
+				Diseño: Depa 102<br/>
 				Construcción: Arq. Carolina Iglesias y Arq. Teo Robles
 			</p>
 		</div>
