@@ -39,12 +39,15 @@ $('#slideshow').cycle({
 		<div class="texto">
 			<p class="titulo">Mueblería Akabani Revolución</p>
 			<p class="lugar">
-				4000 m2 <br/>
 		 		San Angel, México D.F. (2011)<br/>
-				Diseño de edificio para mueblería
+				Diseño y decoración + Fachada y exteriores.
 			</p>
 			<p	class="info">
-				Diseño de edificio para una mueblería de 4000 m2, que busca imprimir un giro moderno y llamativo a una mueblería de gran prestigio y tradición.
+				Diseño de edificio para una mueblería de 4000 m<sup>2</sup>, que busca imprimir un giro moderno y llamativo a una mueblería de gran prestigio y tradición.
+			</p>
+			<p	class="arq">
+				Diseño: Arq. Carolina Iglesias <br/>
+				Colaboradores: Arq. Leonardo Robles
 			</p>
 		</div>
 

@@ -49,6 +49,7 @@ $('#slideshow').cycle({
 			</p>
 			<p	class="arq">
 				Diseño: Depa 102
+				Construcción: Arq. Carolina Iglesias y Arq. Teo Robles
 			</p>
 		</div>
 

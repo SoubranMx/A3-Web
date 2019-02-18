@@ -65,7 +65,7 @@
 				</p>
 				<p	class="arq">
 					Diseño: Arq. Luis Felipe Castro <br/>
-					Construcción: Arq. Carolina Iglesias y el Arq. Teo Robles
+					Construcción: Arq. Carolina Iglesias y Arq. Teo Robles
 				</p>
 			</div>
 		</div>

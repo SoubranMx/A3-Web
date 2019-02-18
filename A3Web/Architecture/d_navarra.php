@@ -2,7 +2,7 @@
 //	AUN NO TIENE NADA
 ?>
 
-	<div id="section">
+	<div id="section" style="margin-bottom:15px;">
 	   <div id="proyectos">
 				<script type="text/javascript">
 					$('#slideshow').cycle({
@@ -51,11 +51,11 @@
 					Desarrollo Inmobiliario, 3 departamentos.
 				</p>
 				<p	class="info">
-					Moderno y llamativo edificio, con excelente ubicación a un paso de las colonias Narvarte y Del Valle. Departamentos de 80 m2, más bodega, amplio cuarto de lavado y terraza o roof-garden privado. Sala-comedor con balcones, cocina con desayunador, 2 recámaras, 2 baños y 1 estacionamiento por departamento.
+					Moderno y llamativo edificio, con excelente ubicación a un paso de las colonias Narvarte y Del Valle. Departamentos de 80m<sup>2</sup>, más bodega y cuarto de lavado, terraza o roof-garden privado. Sala-comedor con balcones, cocina con desyunador, 2 recámaras, 2 baños y estacionamiento.
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Carolina Iglesias <br/>
-					Construcción: EDyCA Inmobiliaria 1.0
+					Diseño: Arq. Carolina Iglesias y Arq. Alberto Bautista <br/>
+					Construcción: EDyCA Inmobiliaria 1.0 <br/>
 					Colaboración: Arq. Eduardo López
 				</p>
 			</div>

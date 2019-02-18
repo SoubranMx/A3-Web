@@ -53,7 +53,7 @@ $('#slideshow').cycle({
 			</p>
 			<p	class="arq">
 				Diseño: Tiziano<br/>
-				Construcción: Arq. Teo Robles y la Arq. Carolina Iglesias<br/>
+				Construcción: Arq. Teo Robles y Arq. Carolina Iglesias<br/>
 				Colaboración: Arq. Nadia Hernández
 			</p>
 		</div>

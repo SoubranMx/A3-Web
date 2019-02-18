@@ -47,9 +47,8 @@
 			<div class="texto">
 				<p class="titulo">Casino Winpalace</p>
 				<p class="lugar">
-					2000 m2<br/>
 					Ciudad Satélite, Edomex (2015)<br/>
-					Rediseño y decoración de interiores<br/>
+					Rediseño y decoración de 2000m<sup>2</sup> de interiores<br/>
 					Creación de fachada
 				</p>
 				<p	class="info">
