@@ -20,13 +20,13 @@
 	  			<img src="obras/obpescaderia/Pescaderia01.jpg" width="629" height="429" style="position: absolute; top: 0px; left: 0px; opacity: 1; display: block; z-index: 9; ">
 	  			<img src="obras/obpescaderia/Pescaderia02.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 7; position: absolute; display: none; ">
 	  			<img src="obras/obpescaderia/Pescaderia03.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 6; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia04.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 5; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia05.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia06.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia07.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia08.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia09.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
-					<img src="obras/obpescaderia/Pescaderia10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia04.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 5; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia05.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia06.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia07.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia08.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia09.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				<img src="obras/obpescaderia/Pescaderia10.jpg" width="629" height="429" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
 	    </div>
 			<div class="fotos">
 				<ul id="nav">

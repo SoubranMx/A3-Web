@@ -19,7 +19,7 @@
     <li> <a href="#">Comercial</a>
         <ul>
 					<!--Se quedan en orden -->
-					<li><a href="#">Treze</a></li>
+					<li><a href="obra_treze.php">Treze</a></li>
 					<li><a href="obra_centralcentral.php">Central Central</a></li>
 					<li><a href="obra_Sportsbook.php">Sportsbook</a></li>
 					<li><a href="obra_pescaderia.php">La Pescadería</a></li>
