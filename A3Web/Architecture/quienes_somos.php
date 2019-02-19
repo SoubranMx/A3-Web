@@ -1,13 +1,82 @@
-<?php	include('a_cont/head.php');?>
-	<div id="section">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-MX" lang="es-MX">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta name="description" content="A³ ARCHITECTURE es una empresa con 12 años de experiencia en diseño y construcción de espacios habitables que combinan lo bello y lo funcional. Nuestras obras abarcan el ramo de lo habitacional, residencial, industrial, comercial, restaurantes, departamentos, oficinas y diseño de interiores. Nuestra filosofía de trabajo se basa en la calidad de los proyectos y el compromiso con el cliente. " />
+		<meta name="keywords" content="arquitectura, mantenimiento, persianas, diseños, a-tres" />
+		<title>A&sup3; - Dream · Dare · Create · Build</title>
+	   	<link rel="stylesheet" media="screen" href="css/estilo.css" />
+	   	<link rel="shortcut icon" href="img/favicon.ico" />
+	  	<script src="js/jquery-min.js" type="text/javascript"></script>
+	  	<script src="js/modernizr.js" type="text/javascript"></script>
+	  	<script src="js/jquery.cycle.all.js" type="text/javascript"></script>
+	   	<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+	   	<script src="js/jquery.mousewheel.min.js" type="text/javascript"></script>
+	   	<script src="js/jquery.mCustomScrollbar.js" type="text/javascript"></script>
+	  <!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
+		<link rel="stylesheet" href="css/texto.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<div id="logo"><img src="css/img/a3_logo.jpg" alt="Logo" width="90" height="110" /></div>
+			<div id="navbl"></div>
+			<div id="nava">
+				<ul>
+					<li> <a href="index.html">Inicio</a> </li>
+					<li> <a href="quienes_somos.php">¿Quiénes somos?</a> </li>
+					<li> <a href="#">Residencial</a>
+						<ul>
+							<li><a href="residencial/cibeles.php">Cibeles</a></li>
+							<li><a href="residencial/mangles.php">Mangles</a></li>
+							<li><a href="residencial/petroleos.php">Petróleos</a></li>
+							<li><a href="residencial/real_del_country.php">Real del Country</a></li>
+							<li><a href="#">Salto del Agua</a></li>
+							<li><a href="residencial/mangos.php">Los Mangos</a></li>
+							<li><a href="#">Alvarado</a></li>
+							<li><a href="residencial/goldsmith.php">Goldsmith</a></li>
+							<li><a href="#">Providencia</a></li>
+							<li><a href="#">Toulouse</a></li>
+						</ul>
+					</li>
+
+					<li> <a href="#">Comercial</a>
+						<ul>
+							<li><a href="comercial/treze.php">Treze</a></li>
+							<li><a href="comercial/centralcentral.php">Central Central</a></li>
+							<li><a href="comercial/sportsbook.php">Sportsbook</a></li>
+							<li><a href="comercial/pescaderia.php">La Pescadería</a></li>
+							<li><a href="comercial/restaurante_salotto.php">Salotto</a></li>
+							<li><a href="comercial/winpalace.php">Winpalace</a></li>
+							<li><a href="comercial/magnum_boutique.php">Magnum Boutique</a></li>
+							<li><a href="comercial/akabani_revolucion.php">Akabani</a></li>
+							<li><a href="comercial/showroom_smart_tech.php">Smart Tech</a></li>
+							<li><a href="comercial/oficinas_eurotecsa.php">Eurotecsa</a></li>
+						</ul>
+					</li>
+					<li> <a href="#">Desarrollos</a>
+						<ul>
+							<li><a href="desarrollos/ferrocarril.php">Ferrocarril</a></li>
+							<li><a href="desarrollos/navarra.php">Navarra</a></li>
+							<li><a href="desarrollos/mar_china.php">Mar de China</a></li>
+							<li><a href="desarrollos/cencibel.php">Cencibel</a></li>
+						</ul>
+					</li>
+					<li> <a href="persianas.html" >Persianas</a> </li>
+					<li  style="border:none;" > <a style="border:none;" href="contacto.php" >Contacto</a> </li>
+				</ul>
+			</div>	<!-- End #nava -->
+    	</div>	<!-- End #header -->
+	<div id="section">
 		<?php
 			if (isset($_GET['arq']) || !empty($_GET['arq']) ){
 					$arq = null;
 					$arq = $_GET['arq'];
 					//if(!empty($arq)) {
 		?>
-
 			<?php
 				if(($arq == 'TeoRobles')) {
 			?>
@@ -109,4 +178,22 @@
 
 			<br class="cf" />
 		</div>
-	<?php include('a_cont/footer.php'); ?>
+		<div id="footer">
+			Insurgentes Sur 2342, Oficina 2, Chimalistac, CDMX
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+			&copy; 2019 A&sup3; Architecture<br />
+			T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 55 5540 4230
+			<br /><br />
+			<!-- <div id="diseñador"><a href="">by BlockCode</a></div> -->
+			<div id="rs">
+				<a href="https://www.facebook.com/A3-Architecture-176934649048537/" target="_blank">Facebook</a>
+				<a href="">YouTube</a>
+			</div>
+		</div>
+	</body>
+</html>

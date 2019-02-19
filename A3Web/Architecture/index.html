@@ -1,42 +1,4 @@
-<?php
-
-
-
-if ( !empty($_POST['submit']) ) {
-	// definimos las variables
-	if ( !empty($_POST['nombre']) ) 		$nombre 		= $_POST['nombre'];
-	if ( !empty($_POST['empresa']) ) 		$empresa 		= $_POST['empresa'];
-	if ( !empty($_POST['telefono']) ) 		$telefono 		= $_POST['telefono'];
-	if ( !empty($_POST['email']) ) 			$email 			= $_POST['email'];
-	if ( !empty($_POST['mensaje']) ) 			$ms 			= $_POST['mensaje'];
-
-	if ( empty($nombre) ) 	$error['nombre'] 		= 'Por favor de ingresar su Nombre';
-	if ( empty($telefono) ) $error['telefono'] 		= 'Por favor de ingresar su Teléfono';
-	if ( empty($email) ) 	$error['email'] 		= 'Por favor de ingresar su Correo';
-	if ( empty($ms) ) 	$error['mensaje'] 			= 'Por favor de ingresar un Mensaje';
-
-
-	if ( empty($error) ) {
-
-		$mail='carolina@a3.biz,carolina@a3.biz';
-		$thank="http://aixandvic.com/a-tres/contacto.php?add=true";
-		$ramitente = $_REQUEST["email"];
-		$message = "
-		Nombre: ".$nombre."
-		Telefono: ".$telefono."
-		Correo: ".$email."
-		\nMensaje:\n\n ".$ms."
-		";
-
-		if(mail($mail, "Mensaje desde la web", $message, "From:$email"))
-		header ("Location: $thank");
-		die;
-
-
-	}
-
-}
-?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-MX" lang="es-MX">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
@@ -81,20 +43,20 @@ if ( !empty($_POST['submit']) ) {
 						</ul>
 					</li>
 
-					<li> <a href="#">Comercial</a>
-						<ul>
-							<li><a href="comercial/treze.php">Treze</a></li>
-							<li><a href="comercial/centralcentral.php">Central Central</a></li>
-							<li><a href="comercial/sportsbook.php">Sportsbook</a></li>
-							<li><a href="comercial/pescaderia.php">La Pescadería</a></li>
-							<li><a href="comercial/restaurante_salotto.php">Salotto</a></li>
-							<li><a href="comercial/winpalace.php">Winpalace</a></li>
-							<li><a href="comercial/magnum_boutique.php">Magnum Boutique</a></li>
-							<li><a href="comercial/akabani_revolucion.php">Akabani</a></li>
-							<li><a href="comercial/showroom_smart_tech.php">Smart Tech</a></li>
-							<li><a href="comercial/oficinas_eurotecsa.php">Eurotecsa</a></li>
-						</ul>
-					</li>
+				<li> <a href="#">Comercial</a>
+					<ul>
+								<li><a href="comercial/treze.php">Treze</a></li>
+								<li><a href="comercial/centralcentral.php">Central Central</a></li>
+								<li><a href="comercial/sportsbook.php">Sportsbook</a></li>
+								<li><a href="comercial/pescaderia.php">La Pescadería</a></li>
+								<li><a href="comercial/restaurante_salotto.php">Salotto</a></li>
+								<li><a href="comercial/winpalace.php">Winpalace</a></li>
+								<li><a href="comercial/magnum_boutique.php">Magnum Boutique</a></li>
+								<li><a href="comercial/akabani_revolucion.php">Akabani</a></li>
+								<li><a href="comercial/showroom_smart_tech.php">Smart Tech</a></li>
+								<li><a href="comercial/oficinas_eurotecsa.php">Eurotecsa</a></li>
+							</ul>
+				</li>
 					<li> <a href="#">Desarrollos</a>
 						<ul>
 							<li><a href="desarrollos/ferrocarril.php">Ferrocarril</a></li>
@@ -109,59 +71,21 @@ if ( !empty($_POST['submit']) ) {
 			</div>	<!-- End #nava -->
 		</div>	<!-- End #header -->
 
-	  <div id="section" >
-	      <h1>Contáctanos</h1>
-
-
-
-			<?php if (!empty($error)) { ?>
-
-		<?php foreach ($error as $mensaje) { ?>
-			<?= $mensaje ?><br />
-		<?php } ?>
-
-	<?php } ?>
-
-	<?php if ( !empty($_GET['add']) ) { ?>
-
-	Se envió con éxito
-
-	<?php } else { ?>
-
-				Envianos un correo:<br /><br />
-				<form action="contacto.php" method="post" accept-charset="UTF-8" style="height:310px;" >
-				Nombre:<br />
-				<input type="text" name="nombre" value="<?php if ( ! empty($nombre) ) echo $nombre; ?>" /><br /><br />
-				Empresa<small> (opcional) </small>:<br />
-				<input type="text" name="empresa" value="<?php if ( ! empty($empresa) ) echo $empresa; ?>" /><br /><br />
-				Teléfono:<br />
-				<input type="text" name="telefono" value="<?php if ( ! empty($telefono) ) echo $telefono; ?>" /><br /><br />
-				Correo:<br />
-				<input type="text" name="email" value="<?php if ( ! empty($email) ) echo $email; ?>" /><br /><br />
-				<div id="mensaje">Mensaje:<br />
-				<textarea name="mensaje" rows="1" cols="1" ><?php if ( ! empty($ms) ) echo $ms; ?></textarea>
-				<br /><br /><br />
-				<input type="submit" name="submit" value="Enviar" style="cursor:pointer;width:100px; height:30px; line-height:10px; float:right; background:#fff; color:#000;" /></div>
-			</form>
-			<?php } ?>
-
-
-			<div id="datos">
-				Insurgentes Sur 2342, Oficina 2, Chimalistac, CDMX
-				<br /><br />
-				T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 55 5540 4230<br />
-				F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 55 5256 5337<br />
-				W&nbsp;&nbsp;&nbsp;&nbsp;+ www.a3.biz<br /><br />
-				Arq. Carolina Iglesias<br />
-				carolina@a3.biz<br /><br />
-
-
-
+		<div id="section" style="width:1000px;">
+			<script type="text/javascript">
+				$('#pres').cycle({
+					fx:    'fade',
+					speed:  2000
+				});
+			</script>
+			<div id="pres">
+				<img src="presentacion/pres1.jpg" alt="A3" allign="middle" width="999"  height="400" />
+				<img src="presentacion/pres2.jpg" alt="A3" allign="middle" width="999"  height="400" />
+				<img src="presentacion/pres4.jpg" alt="A3" allign="middle" width="999"  height="400" />
+				<img src="presentacion/pres5.jpg" alt="A3" allign="middle" width="999"  height="400" />
 			</div>
-
-	</div>
-
-	<div id="footer">
+		</div>
+		<div id="footer">
 			Insurgentes Sur 2342, Oficina 2, Chimalistac, CDMX
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -170,8 +94,7 @@ if ( !empty($_POST['submit']) ) {
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 			&copy; 2019 A&sup3; Architecture<br />
-			T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 55 5540 4230
-			<br /><br />
+			T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 55 5540 4230<br/><br/>
 			<!-- <div id="diseñador"><a href="">by BlockCode</a></div> -->
 			<div id="rs">
 				<a href="https://www.facebook.com/A3-Architecture-176934649048537/" target="_blank">Facebook</a>
@@ -180,3 +103,4 @@ if ( !empty($_POST['submit']) ) {
 		</div>
 	</body>
 </html>
+
