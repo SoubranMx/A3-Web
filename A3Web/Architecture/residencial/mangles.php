@@ -40,16 +40,17 @@
 				</ul>
 			</div>
 			<div class="texto">
-				<p class="titulo">Casa Mangles</p>
+				<p class="titulo">Bosque de Mangles</p>
 				<p class="lugar">
-					680 m2 <br/>
-					Bosques de Las Lomas (2009)
+					Bosques de Las Lomas (2009) <br/>
+					Diseño y construcción
 				</p>
 				<p	class="info">
-					Proyecto y obra para mansión de lujo estilo moderno.
+					Un proyecto divertido y sofisticado, desarrollado para y con una familia muy comprometida con el diseño y personalización de cada uno de sus espacios. El resultado es claro: una casa espectacular, con toques íntimos y cálidos que permiten disfrutar la función de cada espacio de manera individual y familiar.
 				</p>
 				<p	class="arq">
-					Colaboración: DM Arquitectos
+					Diseño y Contruscción para DM Arquitectos <br/>
+					Realizado por Arq. Carolina Iglesias
 				</p>
 			</div>
 		</div>

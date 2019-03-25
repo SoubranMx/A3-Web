@@ -24,7 +24,7 @@
 				<img src="img/goldsmith/07.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 2; position: absolute; display: none; ">
 				<img src="img/goldsmith/08.jpg" width="286" height="429" style="top: 0px; left: 0px; z-index: 2; position: absolute; display: none; ">
     		</div>
-			<div class="titulo">
+			<div class="fotos">
 				<ul id="nav">
 					<li class=""><a href="#"><img src="img/goldsmith/01.jpg" width="80" height="53" ></a></li>
 					<li class=""><a href="#"><img src="img/goldsmith/02.jpg" width="80" height="53"></a></li>
@@ -37,14 +37,17 @@
 				</ul>
     		</div>
 			<div class="texto">
-				<p class="titulo"> Departamento Goldsmith </p>
+				<p class="titulo"> Goldsmith </p>
 				<p class="lugar">
-					150 m<sup>2</sup><br/>
-					Polanco (2009)<br/>
-					Construcción de Interiores
+					Polanco, CDMX (2009) <br/>
+					Construcción de interiores
+				</p>
+				<p class="info">
+					Artísticamente concebido y diseñado hasta el más mínimo detalle, este departamento de Polanco representa lo más chic del estilo vintage que comenzaba a florecer en esta época.
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Héctor Bitar
+					Diseño e interiorismo: Arq. Héctor Bitar <br/>
+					Construcción: Arq. Teo Robles y Arq. Carolina Iglesias
 				</p>
 			</div>
 		</div>

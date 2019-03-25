@@ -40,16 +40,17 @@
 				</ul>
 			</div>
 			<div class="texto">
-				<p class="titulo">Casa Real del Country</p>
+				<p class="titulo">Real del Country</p>
 				<p class="lugar">
-					1200 m<sup>2</sup><br/>
-					Lomas Country Club, Huixquilucan (2008)
+					Lomas Country Club, Huixquilucan (2008) <br/>
+					Diseño y Construcción
 				</p>
 				<p	class="info">
-					Proyecto y obra para mansión de lujo.
+					Una espectacular mansión de 1200 m<sup>2</sup> de construcción, donde todos los espacios de habitación principales se vuelcan hacia las fastuosas vistas de los campos del Edomex.
 				</p>
 				<p	class="arq">
-					Colaboración: DM Arquitectos
+					Diseño y Construcción para DM Arquitectos
+					Realizado por: Arq. Carolina Iglesias
 				</p>
 			</div>
 		</div>

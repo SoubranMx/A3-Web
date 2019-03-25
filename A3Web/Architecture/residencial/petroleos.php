@@ -40,15 +40,18 @@
 				</ul>
 			</div>
 			<div class="texto">
-				<p class="titulo">Petróleos</p>
+				<p class="titulo">Fuente de Petróleos</p>
 				<p class="lugar">
-					
+					Tecamachalco, EdoMex (2016) <br/>
+					Remodelación Total
 				</p>
 				<p	class="info">
-					
+				Una casa de Tecamachalco de los años 50, toma nueva vida y carácter, re definiendo su volumetría, acabados y colores. Un homenaje a la tradición de la hacienda mexicana y a la inspiración y el lenguaje del Arq. Luis Barragán. 
 				</p>
 				<p	class="arq">
-					
+					Diseño: Arq. Carolina Iglesias <br/>
+					Construcción: Arq. Carolina Iglesias y Arq. Teo Robles <br/>
+					Colaboración: Arq. Yolanda Tzintzún
 				</p>
 			</div>
 		</div>

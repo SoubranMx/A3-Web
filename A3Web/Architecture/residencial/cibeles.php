@@ -45,12 +45,17 @@
 				</ul>
     		</div>
 			<div class="texto">
-				<p class="titulo"> Cibeles </p>
+				<p class="titulo">Fuente de Cibeles</p>
 				<p class="lugar">
-					
+					Tecamachalco, EdoMex (2018) <br/>
+					Remodelación total
+				</p>
+				<p	class="info">
+				Una hermosa casa antigua de Tecamachalco, con espectacular jardín, cobra nueva vida gracias a esta remodelación integral, que replantea los espacios de acuerdo a las necesidades modernas: grandes espacios abiertos, deck para disfrutar el jardín, líneas de diseño puras, actuales y sofisticadas.
 				</p>
 				<p	class="arq">
-					Diseño:
+					Diseño y Construcción: Arq. Carolina Iglesias <br/>
+					Colaboración: Arq. Karen González
 				</p>
 			</div>
 		</div>
