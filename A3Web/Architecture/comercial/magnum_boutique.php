@@ -18,29 +18,28 @@
 				<img src="img/magnum_boutique/02.jpg" style="top: 0px; left: 0px; z-index: 7; position: absolute; display: none; ">
 				<img src="img/magnum_boutique/03.jpg" style="top: 0px; left: 0px; z-index: 6; position: absolute; display: none; ">
 				<img src="img/magnum_boutique/04.jpg" style="top: 0px; left: 0px; z-index: 5; position: absolute; display: none; ">
-				<img src="img/magnum_boutique/05.jpg" style="top: 0px; left: 0px; z-index: 4; position: absolute; display: none; ">
+				
     		</div>
 			<div class="fotos">
 				<ul id="nav">
 					<li class=""><a href="#"><img src="img/magnum_boutique/01.jpg" width="80" height="53" ></a></li>
 					<li class=""><a href="#"><img src="img/magnum_boutique/02.jpg" width="80" height="53"></a></li>
 					<li class=""><a href="#"><img src="img/magnum_boutique/03.jpg" width="80" height="53"></a></li>
-					<li class=""><a href="#"><img src="img/magnum_boutique/04.jpg" width="80" height="53"></a></li>
-					<li class="activeSlide"><a href="#"><img src="img/magnum_boutique/05.jpg" width="80" height="53" ></a></li>
+					<li class="activeSlide"><a href="#"><img src="img/magnum_boutique/04.jpg" width="80" height="53"></a></li>
 				</ul>
 			</div>
 			<div class="texto">
 				<p class="titulo">Magnum Boutique</p>
 				<p class="lugar">
-					Plaza Antara Polanco, México D.F. (2011)<br/>
+					Plaza Antara Polanco, CDMX (2011)<br/>
 					Construcción de local comercial
 				</p>
 				<p	class="info">
 					En sólo tres semanas de trabajos nocturnos, pasamos del papel a la obra terminada de esta heladería “boutique” de temporada, ubicada en el centro comercial Plaza Antara.
 				</p>
 				<p	class="arq">
-					Diseño: Depa 102<br/>
-					Construcción: Arq. Carolina Iglesias y Arq. Teo Robles
+					Con diseño del despacho: Depa 102<br/>
+					Construcción & interiores: Arq. Carolina Iglesias & Arq. Teo Robles
 				</p>
 			</div>
 		</div>

@@ -49,7 +49,7 @@
 					Una espectacular mansión de 1200 m<sup>2</sup> de construcción, donde todos los espacios de habitación principales se vuelcan hacia las fastuosas vistas de los campos del Edomex.
 				</p>
 				<p	class="arq">
-					Diseño y Construcción para DM Arquitectos
+					Diseño y Construcción para DM Arquitectos<br/>
 					Realizado por: Arq. Carolina Iglesias
 				</p>
 			</div>

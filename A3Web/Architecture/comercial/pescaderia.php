@@ -43,7 +43,7 @@
 				<div class="texto">
 					<p class="titulo">La Pescadería Prado Norte</p>
 					<p class="lugar">
-						Lomas de Chapultepec, CdMx (2017)<br/>
+						Lomas de Chapultepec, CDMX (2017)<br/>
 						Diseño y decoración<br/>
 						Diseño de fachada y exteriores
 					</p>
@@ -51,8 +51,8 @@
 						El quinto de una exitosa cadena de restaurantes de mariscos, debe conservar la imagen corporativa y a su vez estar a la altura de los exigentes gustos de una de las zonas más lujosas de la ciudad.
 					</p>
 					<p	class="arq">
-						Diseño: Arq. Carolina Iglesias<br/>
-						Colaboración: Arq. Karen González
+						Con diseño de: Arq. Carolina Iglesias<br/>
+						Con la colaboración de: Arq. Karen González
 					</p>
 				</div>
 		</div>

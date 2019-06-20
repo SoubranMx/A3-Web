@@ -54,9 +54,9 @@
 				Un ambiente cálido y apapachador, para una comida “de apapacho”, según nos describe el Chef. La mezcla ecléctica de materiales, texturas, luces y patrones hace de éste un espacio único y singular, para disfrutar de una experiencia gourmet.
 				</p>
 				<p	class="arq">
-					Diseño y Construcción: Arq. Carolina Iglesias y Arq. Karen González<br/>
+					Diseño y Construcción: Arq. Carolina Iglesias & Arq. Karen González<br/>
 					Interiorismo: D.I. Gina Barba <br/>
-					Colaboración: Arq. Carlos Bautista
+					Con la colaboración de: Arq. Carlos Bautista
 				</p>
 			</div>
 		</div>

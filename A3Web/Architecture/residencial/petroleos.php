@@ -50,8 +50,8 @@
 				</p>
 				<p	class="arq">
 					Diseño: Arq. Carolina Iglesias <br/>
-					Construcción: Arq. Carolina Iglesias y Arq. Teo Robles <br/>
-					Colaboración: Arq. Yolanda Tzintzún
+					Construcción: Arq. Carolina Iglesias & Arq. Teo Robles <br/>
+					Colaboradores: Arq. Yolanda Tzintzún
 				</p>
 			</div>
 		</div>

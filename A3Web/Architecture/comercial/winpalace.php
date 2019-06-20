@@ -56,7 +56,7 @@
 				</p>
 				<p	class="arq">
 					Diseño y construcción: Arq. Carolina Iglesias<br/>
-					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles
+					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & <br/>Arq. Adriana Ángeles
 				</p>
 			</div>
 		</div>

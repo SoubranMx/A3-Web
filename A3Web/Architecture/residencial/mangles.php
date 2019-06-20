@@ -42,14 +42,14 @@
 			<div class="texto">
 				<p class="titulo">Bosque de Mangles</p>
 				<p class="lugar">
-					Bosques de Las Lomas (2009) <br/>
+					Bosques de Las Lomas, CDMX (2009) <br/>
 					Diseño y construcción
 				</p>
 				<p	class="info">
 					Un proyecto divertido y sofisticado, desarrollado para y con una familia muy comprometida con el diseño y personalización de cada uno de sus espacios. El resultado es claro: una casa espectacular, con toques íntimos y cálidos que permiten disfrutar la función de cada espacio de manera individual y familiar.
 				</p>
 				<p	class="arq">
-					Diseño y Contruscción para DM Arquitectos <br/>
+					Diseño y Construcción para DM Arquitectos <br/>
 					Realizado por Arq. Carolina Iglesias
 				</p>
 			</div>

@@ -55,7 +55,7 @@
 				</p>
 				<p	class="arq">
 					Diseño y Construcción: Arq. Carolina Iglesias <br/>
-					Colaboración: Arq. Karen González
+					Con la colaboración de: Arq. Karen González
 				</p>
 			</div>
 		</div>

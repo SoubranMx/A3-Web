@@ -45,7 +45,7 @@
 					Remodelación de interiores
 				</p>
 				<p class="info">
-                    Del más puro estilo eclecticista, la renovación de este departamento buscó siempre respetar la pasión de su dueña por el arte, el color, y las explosiones de formas y de objetos. Es, de fondo, un espacio donde sumergirse en la vida misma.
+                    Del más puro estilo ecléctico, la renovación de este departamento buscó siempre respetar la pasión de su dueña por el arte, el color, y las explosiones de formas y de objetos. Es, de fondo, un espacio donde sumergirse en la vida misma.
 				</p>
 				<p	class="arq">
 					Diseño y construcción: Arq. Carolina Iglesias <br/>

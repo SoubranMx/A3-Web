@@ -44,16 +44,16 @@
 			<div class="texto">
 				<p class="titulo">Navarra 167</p>
 				<p class="lugar">
-					Álamos, CdMx (2018)<br/>
-					Desarrollo Inmobiliario, 3 departamentos.
+					Álamos, CDMX (2018)<br/>
+					Desarrollo Inmobiliario, 3 departamentos
 				</p>
 				<p	class="info">
 					Moderno y llamativo edificio, con excelente ubicación a un paso de las colonias Narvarte y Del Valle. Departamentos de 80m<sup>2</sup>, más bodega y cuarto de lavado, terraza o roof-garden privado. Sala-comedor con balcones, cocina con desyunador, 2 recámaras, 2 baños y estacionamiento.
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Carolina Iglesias y Arq. Alberto Bautista <br/>
-					Construcción: EDyCA Inmobiliaria 1.0 <br/>
-					Colaboración: Arq. Eduardo López
+					Diseño: Arq. Carolina Iglesias & Arq. Alberto Bautista <br/>
+					Construcción realizada por: EDyCA Inmobiliaria 1.0 <br/>
+					Con la colaboración de: Arq. Eduardo López
 				</p>
 			</div>
 		</div>

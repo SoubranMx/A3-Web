@@ -38,7 +38,6 @@
 				<li><a href="../desarrollos/cencibel.php">Cencibel</a></li>
 			</ul>
 		</li>
-		<li> <a href="../persianas.html" >Persianas</a> </li>
 		<li  style="border:none;" > <a style="border:none;" href="../contacto.php" >Contacto</a> </li>
 	</ul>
 </div>

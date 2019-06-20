@@ -44,9 +44,9 @@
 					Restaurante italiano repleto de detalles artísticos, en una de las mejores zonas restauranteras de la Ciudad de México.
 				</p>
 				<p	class="arq">
-					Diseño: Tiziano<br/>
-					Construcción: Arq. Teo Robles y Arq. Carolina Iglesias<br/>
-					Colaboración: Arq. Nadia Hernández
+					Con diseño de: Tiziano<br/>
+					Construcción: Arq. Teo Robles & Arq. Carolina Iglesias<br/>
+					Con la colaboración de: Arq. Nadia Hernández
 				</p>
 			</div>
 		</div>

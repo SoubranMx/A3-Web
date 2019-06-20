@@ -152,7 +152,7 @@
 			<h1 style="margin:0px;padding:0px;">¿Quiénes Somos?</h1>
 				<blockquote style="width:400px;float:left;" class="aaa">
 				<br /><br />
-					A&sup3; ARCHITECTURE es una empresa con 12 años de experiencia
+					A&sup3; ARCHITECTURE es una empresa con 19 años de experiencia
 					en diseño y construcción de espacios habitables que combinan lo bello y lo funcional.
 					Nuestras obras abarcan el ramo de lo habitacional,
 					residencial, industrial, comercial, restaurantes, departamentos,

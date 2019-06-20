@@ -60,7 +60,7 @@ margin:0px auto;
 	}
 #nava {
 position:relative;
-width:897px;
+width:900px;
 height:35px;
 background:#fff;
 float:right;
@@ -89,7 +89,7 @@ margin:0px;
 #nava li {
 float:left;
 display:block;
-width:128px;
+width:150px;
 height:35px;
 text-align:center;
 
@@ -103,7 +103,7 @@ background-repeat:no-repeat;
 
 #nava li a {
 display:block;
-width:128px;
+width:inherit;
 height:35px;
 border-right:1px solid #000;
 color:#444;

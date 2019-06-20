@@ -40,7 +40,7 @@
 				<p class="titulo">Smart Tech Showroom</p>
 				<p class="lugar">
 					Cancún, Quintana Roo (2009)<br/>
-					Diseño y construcción de interiores.
+					Diseño y construcción de interiores
 				</p>
 				<p	class="info">
 					La prestigiosa empresa de tecnología Coinosa presentó en 2009 su nuevo showroom y oficinas en Cancún, listo para atender las demandas de una clientela sofisticada y amante de la automatización.

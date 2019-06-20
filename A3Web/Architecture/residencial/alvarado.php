@@ -41,14 +41,14 @@
 				<p class="titulo">José Alvarado</p>
 				<p class="lugar">
 					Roma, CDMX (2015) <br/>
-					Restauración y remodelación.
+					Restauración y remodelación
 				</p>
 				<p	class="info">
                     La restauración de esta casa estilo Art Nouveau de la colonia Roma tuvo todos los retos que presenta una construcción de casi 100 años. Desde reconstruir las losas originales hasta buscar pisos de madera de recuperación para conservar intacto el estilo.
 				</p>
 				<p	class="arq">
-                    Diseño: Arq. Carlos Duclaud y Salvador de Mria y Campos <br/>
-                    Construccion: Arq. Carolina Iglesias y Arq. Teo Robles <br/>
+                    Diseño: Arq. Carlos Duclaud & Salvador de Maria y Campos <br/>
+                    Construccion: Arq. Carolina Iglesias & Arq. Teo Robles <br/>
                     Colaboración: Arq. Yolanda Tzintzún
 				</p>
 			</div>

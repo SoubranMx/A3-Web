@@ -46,15 +46,15 @@
 			<div class="texto">
 				<p class="titulo"> Restaurante Central Central </p>
 				<p class="lugar">
-					Santa Fe, CdMx (2011)<br/>
+					Santa Fe, CDMX (2011)<br/>
 					Construcción de interiores
 				</p>
 				<p	class="info">
 					"Quiero hacer el restaurante más bonito de México." Con estas palabras,el arquitecto y restaurantero Luis Felipe “Pipe” Castro nos invitó a los dueños de A3 Architecture a colaborar con él en el proyecto más ambicioso y detallista que habíamos abordado hasta ese momento.
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Luis Felipe Castro <br/>
-					Construcción: Arq. Carolina Iglesias y Arq. Teo Robles
+					Con diseño de: Arq. Luis Felipe Castro <br/>
+					Construcción: Arq. Carolina Iglesias & Arq. Teo Robles
 				</p>
 			</div>
 		</div>

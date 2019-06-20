@@ -24,14 +24,14 @@
 			<div class="texto">
 				<p class="titulo">Centro de Inteligencia Eurotecsa</p>
 				<p class="lugar">
-					Lomas de Chapultepec, México D.F. (2010)<br/>
-					Diseño de interiores.
+					Lomas de Chapultepec, CDMX (2010)<br/>
+					Diseño de interiores
 				</p>
 				<p	class="info">
 					Una empresa de gran crecimiento y múltiples giros, Eurotecsa llegó a necesitar un piso completo dedicado exclusivamente a su Centro de Inteligencia. Integrando diferentes líneas del mismo mobiliario de Eurotecsa, el ambiente se uniformiza mediante el uso exclusivo del blanco.
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Carolina Iglesias y Arq. Teo Robles <br/>
+					Diseño: Arq. Carolina Iglesias & Arq. Teo Robles <br/>
 				</p>
 			</div>
 	 </div>

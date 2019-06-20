@@ -47,7 +47,7 @@
 				</p>
 				<p	class="arq">
 					Diseño e interiorismo: Arq. Héctor Bitar <br/>
-					Construcción: Arq. Teo Robles y Arq. Carolina Iglesias
+					Construcción: Arq. Teo Robles & Arq. Carolina Iglesias
 				</p>
 			</div>
 		</div>

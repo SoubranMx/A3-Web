@@ -51,7 +51,7 @@
 					Ampliar esta casa para un cliente de exquisito gusto y alto nivel de exigencia tuvo un requisito principal: espacios modernos y funcionales, de alto diseño, pero que se integraran a la perfección con la casa existente, SIN parecer una ampliación.
 				</p>
 				<p	class="arq">
-					Diseño y construcción: Arq. Carolina Iglesias y Arq. Teo Robles <br/>
+					Diseño y construcción: Arq. Teo Robles & Arq. Carolina Iglesias <br/>
 				</p>
 			</div>
 		</div>

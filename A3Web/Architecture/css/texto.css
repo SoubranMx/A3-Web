@@ -73,5 +73,7 @@ ul{
 }
 
 .precio{
+  font-size:18px;
   font-weight:bold;
+  margin-bottom:12px;
 }

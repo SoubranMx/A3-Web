@@ -53,8 +53,8 @@
 					Sportsbook Restaurante & Bar debió integrar las 3 funciones: bar para apuestas deportivas, restaurante para clientes y bar de reunión social y descanso. Y en todo esto, “generar antojo”... ¡de relajarse, disfrutar el ambiente, y seguir jugando!
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Carolina Iglesias <br/>
-					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & Arq. Adriana Ángeles
+					Diseño y Construcción: Arq. Carolina Iglesias <br/>
+					Colaboradores: Arq. Teo Robles, Arq. Yolanda Tzintzún & <br/>Arq. Adriana Ángeles
 				</p>
 			</div>
 

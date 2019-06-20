@@ -41,9 +41,9 @@
                     Tomamos una casa antigua de Tecamachalco, exquisitamente diseñada en una sola planta, y buscamos re-interpretarla con un lenguaje moderno y minimalista, para darle nueva vida con una nueva familia. 
 				</p>
 				<p	class="arq">
-					Diseño: Arq. Carolina Iglesias y Arq. Salvador de Maria y Campos <br/>
+					Con diseño de: Arq. Carolina Iglesias & Salvador de Maria y Campos <br/>
                     Construcción: Arq. Carolina Iglesias <br/>
-                    Colaboradores: Arq. Teo Robles y Arq. Iván Chávez
+                    Colaboradores: Arq. Teo Robles & Arq. Iván Chávez
 				</p>
 			</div>
 		</div>
